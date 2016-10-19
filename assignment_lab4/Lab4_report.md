@@ -15,18 +15,18 @@
 ###B.实验步骤
 ①在ubuntu下新建一个文件夹EXP4，然后在里面创建一个Deadlock.java文件。代码如下：
 
-![pig1]() ![pig2]()
+![pig1](https://raw.githubusercontent.com/SHIHAOWZ/ES2016_14353265/master/assignment_lab4/picres/pig1.png) ![pig2](https://raw.githubusercontent.com/SHIHAOWZ/ES2016_14353265/master/assignment_lab4/picres/pig2.png)
 
 ②进行linux命令，用javac命令编译java文件，然后用java命令运行。这里注意，在命令行里面进行代码时，
 要先！/bin/bash,然后输入想要执行的代码。
 
-![pig3]()
+![pig3](https://raw.githubusercontent.com/SHIHAOWZ/ES2016_14353265/master/assignment_lab4/picres/pig3.png)
 
-![pig4]()
+![pig4](https://raw.githubusercontent.com/SHIHAOWZ/ES2016_14353265/master/assignment_lab4/picres/pig4.png)
 
 ③修改count的值为10000，然后出现死锁的结果如下图：
 
-![pig5]()
+![pig5](https://raw.githubusercontent.com/SHIHAOWZ/ES2016_14353265/master/assignment_lab4/picres/pig6.png)
 ***
 
 ###C.对上述程序产生死锁的解释
