@@ -26,7 +26,7 @@
 
 ③修改count的值为10000，然后出现死锁的结果如下图：
 
-![pig5](https://raw.githubusercontent.com/SHIHAOWZ/ES2016_14353265/master/assignment_lab4/picres/pig6.png)
+![pig5](https://raw.githubusercontent.com/SHIHAOWZ/ES2016_14353265/master/assignment_lab4/picres/pig5.png)
 ***
 
 ###C.对上述程序产生死锁的解释
