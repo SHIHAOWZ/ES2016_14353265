@@ -85,8 +85,10 @@ rosrun rqt_graph rqt_graph
 ![turtle3](https://github.com/SHIHAOWZ/ES2016_14353265/blob/master/assignment_lab5/pic/turtle3.png)
 
 *  当你的乌龟可以控制跑动时,说明你安装成功了。
+
 ***
 ####4.安装Cartographer
+
 现在在ROS已经安装好了的基础上我们可以安装Cartographer了。
 
 这部分参考了 http://www.cnblogs.com/hitcm/p/5939507.html 的教程。关键部分的命令如下：
